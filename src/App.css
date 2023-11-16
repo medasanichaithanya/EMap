@@ -1,0 +1,14 @@
+/* main.css */
+.hero {
+  background: linear-gradient(to bottom, #4DA0B0, #D39D38);
+  color: #fff;
+  /* Add additional styles for the hero section */
+}
+
+.services {
+  background: linear-gradient(to bottom, #F57F4B, #FFDB58);
+  color: #333;
+  /* Add additional styles for the services section */
+}
+
+/* Add styles for other sections as needed */
