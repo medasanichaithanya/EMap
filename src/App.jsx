@@ -57,7 +57,7 @@ const App = () => {
     <div style={appStyles}>
       <h1>IT Tech Park, Chennai</h1>
       {itTechParkLocation && (
-        <LoadScript googleMapsApiKey="AIzaSyBnQ4Hh3GRs9j0ADe_gCVGrC2-g-8aEq4M">
+        <LoadScript googleMapsApiKey="">
           <GoogleMap
             mapContainerStyle={mapContainerStyles}
             zoom={15}
